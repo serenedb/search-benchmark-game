@@ -1,11 +1,14 @@
 *.iml
 .idea
 outputs
-results
+results.json
 benchmark/target
 tantivy/target
 lucene/build
 engines/bleve-*/bin/
+engines/iresearch*/build*/
+engines/iresearch*/idx*/
+engines/iresearch*/.cache/
 engines/bluge-*/bin/
 engines/**/idx
 engines/**/idx-reordered
@@ -25,3 +28,8 @@ corpus.json
 engines/**/.project
 engines/**/.classpath
 engines/**/.settings
+.vscode/
+pgo/
+cs_pgo/
+results-/
+results/

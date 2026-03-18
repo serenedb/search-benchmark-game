@@ -1,0 +1,19 @@
+{"query": "+python -snake -monty", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+python -snake", "tags": ["negated", "global", "negated:num_tokens_2"]}
+{"query": "+jaguar -car -football", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+jaguar -car", "tags": ["negated", "global", "negated:num_tokens_2"]}
+{"query": "+mercury -planet -element", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+mercury -planet", "tags": ["negated", "global", "negated:num_tokens_2"]}
+{"query": "+java -coffee -island", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+java -coffee", "tags": ["negated", "global", "negated:num_tokens_2"]}
+{"query": "+saturn -planet -car", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+mustang -car -horse", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+amazon -river -rainforest", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+apple -fruit -tree", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+delta -airlines -river", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+jordan -country -basketball", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+orion -constellation -spacecraft", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+bass -fish -guitar", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+eclipse -lunar -solar", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+springfield -illinois -missouri", "tags": ["negated", "global", "negated:num_tokens_3"]}
+{"query": "+puma -cat -shoes", "tags": ["negated", "global", "negated:num_tokens_3"]}

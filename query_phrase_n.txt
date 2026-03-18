@@ -1,0 +1,102 @@
+{"query": "\"plus size clothing\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"wisconsin attorney general\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the english restoration\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"french culinary institute\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"robert green ingersoll\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"who dares wins\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"west palm beach florida\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"ford modeling agency\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"texas state legislature\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"georgia public broadcasting\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"texas death row\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"people having sex\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"new york population\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"most improved player\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"battle of the bulge\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"secretary of state\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"hempstead new york\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"university of washington\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"jesus as a child\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"state of louisiana\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"cured of cancer\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"lord of the rings\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"helen of troy\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"trans siberian orchestra\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"binghamton new york\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"tallest trees in the world\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"the globe newspaper\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"american academy of child and adolescent psychiatry\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"world bank president\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"xena warrior princess\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"time for kids\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"st petersburg high school\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"hotel del coronado\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"walk the line\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"national book award\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"mid continent airport\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"canadian real estate\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"critical care nurse\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the breakfast club\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"critical care medicine\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"john wilkes booth\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"ellen degeneres show\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"jaguar x type\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"little brown jug\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"books on cd\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"pump it up\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"graduate management admission test\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"big boss man\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"worcester state college\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"jefferson davis high school\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"chicken noodle soup\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"miami dade college\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"time in denver\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"zion national park\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"care a lot\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the actors studio\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"bismarck state college\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the oregonian newspaper\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"chicago teachers union\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"connecticut historical society\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the garden of eden\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"immigration to mexico\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the daily breeze\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"debra jo rupp\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"term life insurance\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"us coast guard\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"playa del rey\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"kansas city kings\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"open source software\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"ambassador of italy\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"los angeles daily news\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"napa auto parts\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"law school rankings\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"little shop of horrors\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"new jersey police\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"university of akron\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the news journal\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"city in iran\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"corpus christi tx\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"becoming a widow\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"centerville high school\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"civil war battlefields\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"national security cutter\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"eastern mennonite university\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"new york times best sellers list\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"new york towns\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"medal of honor\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"hot springs south dakota\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"the british embassy\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"new england aquarium\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"the book of life\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"blue ridge parkway\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"chicago public schools\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"george r brown convention center\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"david lee roth\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"central community college\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"power rangers ninja storm\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"boulder city nevada\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"united states constitution\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"niceville high school\"", "tags": ["phrase", "phrase:num_tokens_3"]}
+{"query": "\"laborers international union of north america\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
+{"query": "\"to be or not to be\"", "tags": ["phrase", "phrase:num_tokens_>3"]}
