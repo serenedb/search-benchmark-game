@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <iostream>
 
 #include <boost/algorithm/string.hpp>
@@ -120,12 +121,51 @@ int main(int argc, char const* argv[])
                 count = 1;
             }
         } else if (tokens[0] == "TOP_10_COUNT" || tokens[0] == "TOP_100_COUNT" || tokens[0] == "TOP_1000_COUNT") {
+            size_t k;
+            if (tokens[0] == "TOP_10_COUNT") {
+                k = 10;
+            } else if (tokens[0] == "TOP_100_COUNT") {
+                k = 100;
+            } else if (tokens[0] == "TOP_1000_COUNT") {
+                k = 1000;
+            } else {
+                throw std::runtime_error(fmt::format("Can't compute k for {}", tokens[0]));
+            }
             if (intersection or query.terms.size() == 1) {
                 scored_and_query and_q;
-                count = and_q(make_scored_cursors(index, *scorer, query), index.num_docs()).size();
+                auto results = and_q(make_scored_cursors(index, *scorer, query), index.num_docs());
+                count = results.size();
+                if (results.size() > k) {
+                    std::nth_element(results.begin(), results.begin() + k, results.end(),
+                        [](auto const& a, auto const& b) { return a.first > b.first; });
+                }
             } else {
-                or_query<true> or_q;
-                count = or_q(make_cursors(index, query), index.num_docs());
+                topk_queue topk(k);
+                auto cursors = make_scored_cursors(index, *scorer, query);
+                count = 0;
+                if (!cursors.empty()) {
+                    uint64_t cur_doc =
+                        std::min_element(cursors.begin(), cursors.end(),
+                            [](auto const& a, auto const& b) { return a.docid() < b.docid(); })
+                            ->docid();
+                    while (cur_doc < index.num_docs()) {
+                        float score = 0;
+                        uint64_t next_doc = index.num_docs();
+                        for (size_t i = 0; i < cursors.size(); ++i) {
+                            if (cursors[i].docid() == cur_doc) {
+                                score += cursors[i].score();
+                                cursors[i].next();
+                            }
+                            if (cursors[i].docid() < next_doc) {
+                                next_doc = cursors[i].docid();
+                            }
+                        }
+                        topk.insert(score, cur_doc);
+                        count++;
+                        cur_doc = next_doc;
+                    }
+                    topk.finalize();
+                }
             }
         } else {
             std::cout << "UNSUPPORTED\n";
