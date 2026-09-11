@@ -1,7 +1,7 @@
 *.iml
 .idea
 outputs
-results.json
+/results.json
 benchmark/target
 tantivy/target
 lucene/build
